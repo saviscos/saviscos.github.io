@@ -1,0 +1,20 @@
+# Site settings
+title: Sávio Costa
+description: Sobre mim
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: saviscos.github.io
+
+# User settings
+username: Sávio de Souza Costa
+user_description: Me chamo Sávio, estudo programação e tento aprender sobre o mundo dos microorganismos utilizando computadores. 
+user_title: Estudante de programação
+email: savscosta@gmail.com
+#twitter_username: lorem_ipsum
+github_username:  https://github.com/saviscos
+linkedin_username: https://www.linkedin.com/in/saviscos/
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
